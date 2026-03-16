@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions & Discussion
+    url: https://github.com/orgs/sjviklabs/discussions
+    about: Ask questions or start a discussion
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/stevenjvik/
+    about: Connect with the maintainer
