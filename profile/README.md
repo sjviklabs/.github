@@ -26,8 +26,10 @@ SJVIK Labs is the work of **Steven Vik** — cybersecurity engineer, DevOps prac
 
 | Repo | Description |
 | --- | --- |
-| [**sjvik-landing**](https://github.com/sjviklabs/sjvik-landing) | Source for [sjvik-labs.stevenjvik.tech](https://sjvik-labs.stevenjvik.tech) |
-| [**soc-lab**](https://github.com/sjviklabs/soc-lab) | IR playbooks, Sigma rules, hardening baselines, automation scripts |
+| [**brand-site**](https://github.com/sjviklabs/brand-site) | Source for [stevenjvik.tech](https://stevenjvik.tech) — portfolio + SJVIK Labs landing |
+| [**sec-lab**](https://github.com/sjviklabs/sec-lab) | IR playbooks, Sigma rules, hardening baselines, automation scripts |
+| [**ops-dashboard**](https://github.com/sjviklabs/ops-dashboard) | Control panel for lab infrastructure — goals, KPIs, agent orchestration |
+| [**creative-dm-tools**](https://github.com/sjviklabs/creative-dm-tools) | DM dashboard — combat tracker, reference panels, real-time player view |
 
 ### Get in touch
 
