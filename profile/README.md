@@ -13,14 +13,14 @@
 
 SJVIK Labs is the work of **Steven Vik** — cybersecurity engineer, DevOps practitioner, and homelab builder. Everything here is built from production experience: real configs, real patterns, real lessons learned.
 
-### Repos
+### Public Repos
 
 | Repo | Description |
 | --- | --- |
+| [**sec-lab**](https://github.com/sjviklabs/sec-lab) | SJVIK SOC lab — Wazuh SIEM, Sigma rules, IR playbooks, hardening baselines |
+| [**infra-roles-public**](https://github.com/sjviklabs/infra-roles-public) | Production Ansible roles — node_exporter, AdGuard Home, Traefik + Tailscale |
 | [**brand-site**](https://github.com/sjviklabs/brand-site) | Source for [stevenjvik.tech](https://stevenjvik.tech) — portfolio + SJVIK Labs landing |
-| [**sec-lab**](https://github.com/sjviklabs/sec-lab) | IR playbooks, Sigma rules, hardening baselines, automation scripts |
 | [**squire-mod-v2**](https://github.com/sjviklabs/squire-mod-v2) | Minecraft companion mod — NeoForge 1.21.1, custom FSM, Geckolib |
-| [**creative-dm-tools**](https://github.com/sjviklabs/creative-dm-tools) | DM dashboard — combat tracker, reference panels, real-time player view |
 
 ### Get in touch
 
