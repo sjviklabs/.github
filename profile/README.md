@@ -22,6 +22,7 @@ Public repositories in this organization. Per the SJVIK Labs Repo Standard, ever
 | --- | --- | --- |
 | [**sec-lab**](https://github.com/sjviklabs/sec-lab) | Stable (v1.0.0) | SOC analyst products — Wazuh SIEM, Sigma rules, IR playbooks |
 | [**infra-roles-public**](https://github.com/sjviklabs/infra-roles-public) | Stable (v1.0.0) | Proxmox + Claude Code DevOps books — production Ansible roles |
+| [**claude-code-internals**](https://github.com/sjviklabs/claude-code-internals) | Stable | Claude Code books — Rust reimplementation of the agent harness, 6 crates with MCP support |
 | [**sjviklabs.com**](https://github.com/sjviklabs/sjviklabs.com) | Stable | Source for [sjviklabs.com](https://sjviklabs.com) |
 | [**brand-site**](https://github.com/sjviklabs/brand-site) | Stable (v1.0.0) | Source for [stevenjvik.tech](https://stevenjvik.tech) |
 | [**.github**](https://github.com/sjviklabs/.github) | Stable | Org profile, templates, security policy |
@@ -30,7 +31,6 @@ The full product catalog and book roadmap lives at [sjviklabs.com/books](https:/
 
 ### Coming soon
 
-- **claude-code-internals** — Rust reimplementation of Claude Code's agent harness with MCP support. Currently at [`stevenjvik/claude-code-internals`](https://github.com/stevenjvik/claude-code-internals); migrating to this org.
 - **books-companion** — One folder per book with working example code. Goes public per book launch.
 
 ## Personal projects
